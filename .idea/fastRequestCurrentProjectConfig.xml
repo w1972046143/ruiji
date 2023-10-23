@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentProjectConfig">
+    <option name="cookieList">
+      <list>
+        <DataMapping>
+          <option name="type" value="http://localhost:8080/" />
+          <option name="value" value="JSESSIONID=4381597D05656089D2D85F290565F32A; Path" />
+        </DataMapping>
+      </list>
+    </option>
+    <option name="dataList">
+      <list>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="test" />
+                <option name="url" value="http://localhost:8080/" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="ruiji-project" />
+        </NameGroup>
+      </list>
+    </option>
+    <option name="domain" value="http://localhost:8080/" />
+    <option name="enableEnv" value="test" />
+    <option name="enableProject" value="ruiji-project" />
+    <option name="envList">
+      <list>
+        <option value="test" />
+      </list>
+    </option>
+    <option name="projectList">
+      <list>
+        <option value="ruiji-project" />
+      </list>
+    </option>
+  </component>
+</project>
