@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestHistoryConfig">
+    <option name="historyList">
+      <list>
+        <ResponseHistory>
+          <option name="className" value="com.itheima.reggie.controller.EmployeeController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="ruiji-project" />
+          <option name="method" value="login" />
+          <option name="methodType" value="POST" />
+          <option name="name" value="员工登录" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;id&quot;: 1,&#10;  &quot;username&quot;: &quot;admin&quot;,&#10;  &quot;name&quot;: &quot;name_8rftv&quot;,&#10;  &quot;password&quot;: &quot;1234561&quot;,&#10;  &quot;phone&quot;: &quot;phone_p6udm&quot;,&#10;  &quot;sex&quot;: &quot;sex_45jnd&quot;,&#10;  &quot;idNumber&quot;: &quot;idNumber_8w1z8&quot;,&#10;  &quot;status&quot;: 1,&#10;  &quot;createTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;updateTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;createUser&quot;: 1,&#10;  &quot;updateUser&quot;: 1&#10;}" />
+              <option name="className" value="com.itheima.reggie.controller.EmployeeController" />
+              <option name="jsonDocument" value="{&#10;  &quot;id&quot;: &quot;No comment,Value =1&quot;,&#10;  &quot;username&quot;: &quot;No comment,Value =username_g2xji&quot;,&#10;  &quot;name&quot;: &quot;No comment,Value =name_8rftv&quot;,&#10;  &quot;password&quot;: &quot;No comment,Value =password_e5f9l&quot;,&#10;  &quot;phone&quot;: &quot;No comment,Value =phone_p6udm&quot;,&#10;  &quot;sex&quot;: &quot;No comment,Value =sex_45jnd&quot;,&#10;  &quot;idNumber&quot;: &quot;No comment,Value =idNumber_8w1z8&quot;,&#10;  &quot;status&quot;: &quot;No comment,Value =1&quot;,&#10;  &quot;createTime&quot;: &quot;No comment,Value =2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;updateTime&quot;: &quot;No comment,Value =2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;createUser&quot;: &quot;No comment,Value =1&quot;,&#10;  &quot;updateUser&quot;: &quot;No comment,Value =1&quot;&#10;}" />
+              <option name="method" value="login" />
+              <option name="methodDescription" value="员工登录" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/employee/login" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&#10;&#9;&quot;code&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&quot;msg&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&quot;data&quot;:{&#10;&#9;&#9;&quot;id&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&#9;&quot;username&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;name&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;password&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;phone&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;sex&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;idNumber&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;status&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&#9;&quot;createTime&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;updateTime&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;createUser&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&#9;&quot;updateUser&quot;:&quot;No comment,Type =Number&quot;&#10;&#9;}&#10;}" />
+              <option name="url" value="/employee/login" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080//employee/login&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 316&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&#10;  &quot;id&quot;: 1,&#10;  &quot;username&quot;: &quot;admin&quot;,&#10;  &quot;name&quot;: &quot;name_8rftv&quot;,&#10;  &quot;password&quot;: &quot;1234561&quot;,&#10;  &quot;phone&quot;: &quot;phone_p6udm&quot;,&#10;  &quot;sex&quot;: &quot;sex_45jnd&quot;,&#10;  &quot;idNumber&quot;: &quot;idNumber_8w1z8&quot;,&#10;  &quot;status&quot;: 1,&#10;  &quot;createTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;updateTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;createUser&quot;: 1,&#10;  &quot;updateUser&quot;: 1&#10;}&#13;&#10;" />
+          <option name="response" value="{&quot;code&quot;:0,&quot;msg&quot;:&quot;密码错误&quot;,&quot;data&quot;:null,&quot;map&quot;:{}}" />
+          <option name="url" value="/employee/login" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="com.itheima.reggie.controller.EmployeeController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="ruiji-project" />
+          <option name="method" value="login" />
+          <option name="methodType" value="POST" />
+          <option name="name" value="员工登录" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;id&quot;: 1,&#10;  &quot;username&quot;: &quot;admin&quot;,&#10;  &quot;name&quot;: &quot;name_8rftv&quot;,&#10;  &quot;password&quot;: &quot;123456&quot;,&#10;  &quot;phone&quot;: &quot;phone_p6udm&quot;,&#10;  &quot;sex&quot;: &quot;sex_45jnd&quot;,&#10;  &quot;idNumber&quot;: &quot;idNumber_8w1z8&quot;,&#10;  &quot;status&quot;: 1,&#10;  &quot;createTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;updateTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;createUser&quot;: 1,&#10;  &quot;updateUser&quot;: 1&#10;}" />
+              <option name="className" value="com.itheima.reggie.controller.EmployeeController" />
+              <option name="jsonDocument" value="{&#10;  &quot;id&quot;: &quot;No comment,Value =1&quot;,&#10;  &quot;username&quot;: &quot;No comment,Value =username_g2xji&quot;,&#10;  &quot;name&quot;: &quot;No comment,Value =name_8rftv&quot;,&#10;  &quot;password&quot;: &quot;No comment,Value =password_e5f9l&quot;,&#10;  &quot;phone&quot;: &quot;No comment,Value =phone_p6udm&quot;,&#10;  &quot;sex&quot;: &quot;No comment,Value =sex_45jnd&quot;,&#10;  &quot;idNumber&quot;: &quot;No comment,Value =idNumber_8w1z8&quot;,&#10;  &quot;status&quot;: &quot;No comment,Value =1&quot;,&#10;  &quot;createTime&quot;: &quot;No comment,Value =2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;updateTime&quot;: &quot;No comment,Value =2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;createUser&quot;: &quot;No comment,Value =1&quot;,&#10;  &quot;updateUser&quot;: &quot;No comment,Value =1&quot;&#10;}" />
+              <option name="method" value="login" />
+              <option name="methodDescription" value="员工登录" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/employee/login" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&#10;&#9;&quot;code&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&quot;msg&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&quot;data&quot;:{&#10;&#9;&#9;&quot;id&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&#9;&quot;username&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;name&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;password&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;phone&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;sex&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;idNumber&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;status&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&#9;&quot;createTime&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;updateTime&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;createUser&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&#9;&quot;updateUser&quot;:&quot;No comment,Type =Number&quot;&#10;&#9;}&#10;}" />
+              <option name="url" value="/employee/login" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080//employee/login&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 315&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&#10;  &quot;id&quot;: 1,&#10;  &quot;username&quot;: &quot;admin&quot;,&#10;  &quot;name&quot;: &quot;name_8rftv&quot;,&#10;  &quot;password&quot;: &quot;123456&quot;,&#10;  &quot;phone&quot;: &quot;phone_p6udm&quot;,&#10;  &quot;sex&quot;: &quot;sex_45jnd&quot;,&#10;  &quot;idNumber&quot;: &quot;idNumber_8w1z8&quot;,&#10;  &quot;status&quot;: 1,&#10;  &quot;createTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;updateTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;createUser&quot;: 1,&#10;  &quot;updateUser&quot;: 1&#10;}&#13;&#10;" />
+          <option name="response" value="{&quot;code&quot;:1,&quot;msg&quot;:null,&quot;data&quot;:{&quot;id&quot;:1,&quot;username&quot;:&quot;admin&quot;,&quot;name&quot;:&quot;管理员&quot;,&quot;password&quot;:&quot;e10adc3949ba59abbe56e057f20f883e&quot;,&quot;phone&quot;:&quot;13812312312&quot;,&quot;sex&quot;:&quot;1&quot;,&quot;idNumber&quot;:&quot;110101199001010047&quot;,&quot;status&quot;:1,&quot;createTime&quot;:[2021,5,6,17,20,7],&quot;updateTime&quot;:[2021,5,10,2,24,9],&quot;createUser&quot;:1,&quot;updateUser&quot;:1},&quot;map&quot;:{}}" />
+          <option name="url" value="/employee/login" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="com.itheima.reggie.controller.EmployeeController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="ruiji-project" />
+          <option name="method" value="login" />
+          <option name="methodType" value="POST" />
+          <option name="name" value="员工登录" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;id&quot;: 1,&#10;  &quot;username&quot;: &quot;admin&quot;,&#10;  &quot;name&quot;: &quot;name_8rftv&quot;,&#10;  &quot;password&quot;: &quot;123456&quot;,&#10;  &quot;phone&quot;: &quot;phone_p6udm&quot;,&#10;  &quot;sex&quot;: &quot;sex_45jnd&quot;,&#10;  &quot;idNumber&quot;: &quot;idNumber_8w1z8&quot;,&#10;  &quot;status&quot;: 1,&#10;  &quot;createTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;updateTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;createUser&quot;: 1,&#10;  &quot;updateUser&quot;: 1&#10;}" />
+              <option name="className" value="com.itheima.reggie.controller.EmployeeController" />
+              <option name="jsonDocument" value="{&#10;  &quot;id&quot;: &quot;No comment,Value =1&quot;,&#10;  &quot;username&quot;: &quot;No comment,Value =username_g2xji&quot;,&#10;  &quot;name&quot;: &quot;No comment,Value =name_8rftv&quot;,&#10;  &quot;password&quot;: &quot;No comment,Value =password_e5f9l&quot;,&#10;  &quot;phone&quot;: &quot;No comment,Value =phone_p6udm&quot;,&#10;  &quot;sex&quot;: &quot;No comment,Value =sex_45jnd&quot;,&#10;  &quot;idNumber&quot;: &quot;No comment,Value =idNumber_8w1z8&quot;,&#10;  &quot;status&quot;: &quot;No comment,Value =1&quot;,&#10;  &quot;createTime&quot;: &quot;No comment,Value =2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;updateTime&quot;: &quot;No comment,Value =2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;createUser&quot;: &quot;No comment,Value =1&quot;,&#10;  &quot;updateUser&quot;: &quot;No comment,Value =1&quot;&#10;}" />
+              <option name="method" value="login" />
+              <option name="methodDescription" value="员工登录" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/employee/login" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&#10;&#9;&quot;code&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&quot;msg&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&quot;data&quot;:{&#10;&#9;&#9;&quot;id&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&#9;&quot;username&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;name&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;password&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;phone&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;sex&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;idNumber&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;status&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&#9;&quot;createTime&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;updateTime&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;createUser&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&#9;&quot;updateUser&quot;:&quot;No comment,Type =Number&quot;&#10;&#9;}&#10;}" />
+              <option name="url" value="/employee/login" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080//employee/login&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 315&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&#10;  &quot;id&quot;: 1,&#10;  &quot;username&quot;: &quot;admin&quot;,&#10;  &quot;name&quot;: &quot;name_8rftv&quot;,&#10;  &quot;password&quot;: &quot;123456&quot;,&#10;  &quot;phone&quot;: &quot;phone_p6udm&quot;,&#10;  &quot;sex&quot;: &quot;sex_45jnd&quot;,&#10;  &quot;idNumber&quot;: &quot;idNumber_8w1z8&quot;,&#10;  &quot;status&quot;: 1,&#10;  &quot;createTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;updateTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;createUser&quot;: 1,&#10;  &quot;updateUser&quot;: 1&#10;}&#13;&#10;" />
+          <option name="response" value="{&quot;code&quot;:1,&quot;msg&quot;:null,&quot;data&quot;:{&quot;id&quot;:1,&quot;username&quot;:&quot;admin&quot;,&quot;name&quot;:&quot;管理员&quot;,&quot;password&quot;:&quot;e10adc3949ba59abbe56e057f20f883e&quot;,&quot;phone&quot;:&quot;13812312312&quot;,&quot;sex&quot;:&quot;1&quot;,&quot;idNumber&quot;:&quot;110101199001010047&quot;,&quot;status&quot;:1,&quot;createTime&quot;:[2021,5,6,17,20,7],&quot;updateTime&quot;:[2021,5,10,2,24,9],&quot;createUser&quot;:1,&quot;updateUser&quot;:1},&quot;map&quot;:{}}" />
+          <option name="url" value="/employee/login" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="com.itheima.reggie.controller.EmployeeController" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="ruiji-project" />
+          <option name="method" value="login" />
+          <option name="methodType" value="POST" />
+          <option name="name" value="员工登录" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;id&quot;: 1,&#10;  &quot;username&quot;: &quot;username_g2xji&quot;,&#10;  &quot;name&quot;: &quot;name_8rftv&quot;,&#10;  &quot;password&quot;: &quot;password_e5f9l&quot;,&#10;  &quot;phone&quot;: &quot;phone_p6udm&quot;,&#10;  &quot;sex&quot;: &quot;sex_45jnd&quot;,&#10;  &quot;idNumber&quot;: &quot;idNumber_8w1z8&quot;,&#10;  &quot;status&quot;: 1,&#10;  &quot;createTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;updateTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;createUser&quot;: 1,&#10;  &quot;updateUser&quot;: 1&#10;}" />
+              <option name="className" value="com.itheima.reggie.controller.EmployeeController" />
+              <option name="jsonDocument" value="{&#10;  &quot;id&quot;: &quot;No comment,Value =1&quot;,&#10;  &quot;username&quot;: &quot;No comment,Value =username_g2xji&quot;,&#10;  &quot;name&quot;: &quot;No comment,Value =name_8rftv&quot;,&#10;  &quot;password&quot;: &quot;No comment,Value =password_e5f9l&quot;,&#10;  &quot;phone&quot;: &quot;No comment,Value =phone_p6udm&quot;,&#10;  &quot;sex&quot;: &quot;No comment,Value =sex_45jnd&quot;,&#10;  &quot;idNumber&quot;: &quot;No comment,Value =idNumber_8w1z8&quot;,&#10;  &quot;status&quot;: &quot;No comment,Value =1&quot;,&#10;  &quot;createTime&quot;: &quot;No comment,Value =2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;updateTime&quot;: &quot;No comment,Value =2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;createUser&quot;: &quot;No comment,Value =1&quot;,&#10;  &quot;updateUser&quot;: &quot;No comment,Value =1&quot;&#10;}" />
+              <option name="method" value="login" />
+              <option name="methodDescription" value="员工登录" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/employee/login" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="{&#10;&#9;&quot;code&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&quot;msg&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&quot;data&quot;:{&#10;&#9;&#9;&quot;id&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&#9;&quot;username&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;name&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;password&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;phone&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;sex&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;idNumber&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;status&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&#9;&quot;createTime&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;updateTime&quot;:&quot;No comment,Type =String&quot;,&#10;&#9;&#9;&quot;createUser&quot;:&quot;No comment,Type =Number&quot;,&#10;&#9;&#9;&quot;updateUser&quot;:&quot;No comment,Type =Number&quot;&#10;&#9;}&#10;}" />
+              <option name="url" value="/employee/login" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080//employee/login&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 332&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&#10;  &quot;id&quot;: 1,&#10;  &quot;username&quot;: &quot;username_g2xji&quot;,&#10;  &quot;name&quot;: &quot;name_8rftv&quot;,&#10;  &quot;password&quot;: &quot;password_e5f9l&quot;,&#10;  &quot;phone&quot;: &quot;phone_p6udm&quot;,&#10;  &quot;sex&quot;: &quot;sex_45jnd&quot;,&#10;  &quot;idNumber&quot;: &quot;idNumber_8w1z8&quot;,&#10;  &quot;status&quot;: 1,&#10;  &quot;createTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;updateTime&quot;: &quot;2023-08-09T11:50:28.152407500&quot;,&#10;  &quot;createUser&quot;: 1,&#10;  &quot;updateUser&quot;: 1&#10;}&#13;&#10;" />
+          <option name="response" value="{&quot;code&quot;:0,&quot;msg&quot;:&quot;登陆失败&quot;,&quot;data&quot;:null,&quot;map&quot;:{}}" />
+          <option name="url" value="/employee/login" />
+        </ResponseHistory>
+      </list>
+    </option>
+  </component>
+</project>
