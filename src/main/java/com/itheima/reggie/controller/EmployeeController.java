@@ -38,7 +38,7 @@ public class EmployeeController {
             return R.error("登陆失败");
         }
         if(!emp.getPassword().equals(password)){
-            return R.error("密码错误了");
+            return R.error("密码错误");
         }
         if(emp.getStatus()==0){
             return R.error("账号已禁用");
